@@ -13,6 +13,8 @@
 }
 #btn{
     padding: 22px;
+    outline: none;
+    border-radius: 50px;
     color: rgb(11, 130, 170);
     background: black;
     text-shadow: 0px 0px 8px  rgb(11, 130, 170);
